@@ -1,0 +1,16 @@
+https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/
+
+https://developer.wordpress.org/reference/functions/add_theme_support/
+custom-logo- allows us to upload logo from wordpress Dashboard
+title-tag- Prints title tag automatically into header
+post-thumbnails- allows us to add featured thumbnails on our post
+add_image_size- helps to add custom image size
+Automatic Feed Links is a theme feature introduced with Version 3.0. 
+This feature adds RSS feed links to HTML <head>
+
+https://developer.wordpress.org/reference/functions/register_nav_menus/
+https://developer.wordpress.org/reference/functions/body_class/
+https://developer.wordpress.org/reference/functions/get_bloginfo/
+https://developer.wordpress.org/reference/classes/wp_query/
+
+https://www.wp-hasty.com/tools/wordpress-custom-post-type-generator/
